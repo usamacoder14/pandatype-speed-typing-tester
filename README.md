@@ -6,7 +6,7 @@ PandaType allows users to test their typing speed and accuracy through timed typ
 
 ## 🌐 Live Demo
 
-👉 **[View Live Demo](https://uh-digital.github.io/pandatype/)**
+👉 **[View Live Demo](https://usamacoder14.github.io/pandatype-speed-typing-tester/))**
 
 ## 📸 Preview
 
